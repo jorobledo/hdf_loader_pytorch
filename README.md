@@ -1,4 +1,4 @@
-# hdf_loader_pytorch
+# hdf_pytorch
 
 Code used for loading the Small Angle Neuron Scatterin virtual experiment dataset from hdf5 files in Pytorch. This repository is related to [Small Angle Neutron Scattering (SANS) virtual experiments at KWS-1]() (Zenodo database).
 
